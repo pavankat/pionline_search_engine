@@ -1,0 +1,40 @@
+#content {
+            margin:50px 0px; padding:0px;
+            text-align:center;
+        }
+        #content {
+            width: 960px;
+            margin: 0 auto;
+        }
+        input, select, button {
+            padding: 5px; 
+        }
+        button, input[type=submit] {
+            background: #a8b2cc; 
+            cursor: pointer;
+        }
+        .resultsPart {
+            text-align: left;
+
+        }
+        h2 {
+            display: inline;
+            clear: right;
+        }
+        h2 a {
+            text-decoration: none;
+        }
+        h2 a:hover {
+            text-decoration: underline;
+        }
+        #search {       
+            display: block;
+        }
+
+        #sort {
+            margin:25px 0px 25px 0px;
+        }
+
+        #select_page {
+            margin:10px;
+        }
